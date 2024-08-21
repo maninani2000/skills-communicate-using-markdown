@@ -7,3 +7,13 @@
 
 ## Below is the image added for practice
 ![Image of Yaktocat for practice](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` python
+myVar = "Hello, world!"
+print(myVar)
+```
